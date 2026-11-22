@@ -1,18 +1,9 @@
-
 # Git Learning
 
-Notes and practical examples for learning Git.
+A repository focused on learning Git and version control.
 
-## Topics
-- git init
-- git add
-- git commit
-- git push
-- git pull
-- Branches
-- Merging
-- Pull requests
+## Purpose
+Practice version control concepts and Git workflows.
 
-## Goal
-Understand version control through practical exercises.
-  
+## Getting Started
+Review the available project files and documentation.
