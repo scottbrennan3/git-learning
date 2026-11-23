@@ -1,9 +1,9 @@
-# Git Learning
+## Basic Git Workflow
 
-A repository focused on learning Git and version control.
+### 1. Check Repository Status
 
-## Purpose
-Practice version control concepts and Git workflows.
-
-## Getting Started
-Review the available project files and documentation.
+```bash
+git status
+git add .
+git commit -m "Update project documentation"
+git push
